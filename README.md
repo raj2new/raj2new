@@ -1,16 +1,47 @@
-## Hi there 👋
+## Hi there 👋 I'm Prithivi Raj
 
-<!--
-**raj2new/raj2new** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **IT Administrator | Tech Enthusiast | Problem Solver**  
+💼 10+ Years of Experience in IT Infrastructure & Support  
+🌍 Based in India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I'm an experienced IT Administrator with over a decade of expertise in managing, securing, and optimizing IT systems across a variety of environments. From network configuration to server administration, I've handled it all with a focus on reliability and efficiency.
+
+I enjoy exploring automation, learning new technologies, and building tools that improve everyday IT operations. Recently, I’ve been expanding my skillset into backend development using Node.js and MySQL, while working on internal tools such as employee and procurement management systems.
+
+---
+
+### 🔧 Skills & Technologies
+
+- **Infrastructure**: Windows & Linux Server Administration, Virtualization (VMware/Hyper-V), Active Directory, DNS/DHCP, ITIL Practices  
+- **Networking**: LAN/WAN, Firewalls, VPNs, Switches, Routers  
+- **Cloud**: Azure (Basic Admin & VM Management)  
+- **Scripting & Automation**: PowerShell, Bash  
+- **Development**: HTML, CSS, JavaScript, Node.js, MySQL  
+- **Tools**: Git, VS Code, ServiceNow, Jira, Office 365 Admin  
+
+---
+
+### 🚀 Projects & Interests
+
+- 🛠 Building internal admin tools for employee & procurement workflows  
+- 💾 Streamlining IT ticketing and asset management systems  
+- 📊 Creating dashboards and automation scripts for routine IT tasks  
+- 🌱 Currently exploring backend development and DevOps practices
+
+---
+
+### 📫 Get in Touch
+
+- 📧 Email: [your-email@example.com] *(replace with actual if public)*
+- 💼 LinkedIn: [Your LinkedIn Profile] *(optional)*
+- 🔗 GitHub: [github.com/raj2new](https://github.com/raj2new)
+
+---
+
+> “Technology like art is a soaring exercise of the human imagination.” — Daniel Bell
+
+Thanks for visiting my profile! 😊
