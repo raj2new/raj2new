@@ -36,8 +36,7 @@ I enjoy exploring automation, learning new technologies, and building tools that
 
 ### 📫 Get in Touch
 
-- 📧 Email: [your-email@example.com] *(replace with actual if public)*
-- 💼 LinkedIn: [Your LinkedIn Profile] *(optional)*
+- 📧 Email:mprithiviraj26@gmail.com
 - 🔗 GitHub: [github.com/raj2new](https://github.com/raj2new)
 
 ---
